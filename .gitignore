@@ -2,7 +2,10 @@
 *.swp
 .idea
 .DS_Store
-build
+build/CMakeFiles
+build/external
+build/node
+build/tmp
 example
 node_modules
 npm-debug.log*
